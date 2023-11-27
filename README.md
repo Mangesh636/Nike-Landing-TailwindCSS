@@ -1,8 +1,11 @@
-# React + Vite
+# Responsive Nike Landing Page
+## [Demo](nike-landing-tailwind-css.vercel.app)
+### Responsive Nike Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Responsive Nike Website Using React, JavaScript, TailwindCSS.
+- Smooth Scrolling in each section.
+- Compatible with Mobile
 
-Currently, two official plugins are available:
+![Preview Image](./public/Preview.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Crafted with love by [Mangesh Bhardwaj](#)
